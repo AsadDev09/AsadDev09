@@ -24,12 +24,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaddev09&show_icons=true&locale=en" alt="asaddev09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaddev09&" alt="asaddev09" /></p>
+
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaddev09&" alt="asaddev09" /></p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 

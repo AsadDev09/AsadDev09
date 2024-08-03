@@ -19,13 +19,6 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaddev09&show_icons=true&locale=en&layout=compact" alt="asaddev09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaddev09&show_icons=true&locale=en" alt="asaddev09" /></p>
-
-
-
 </br>
 
 ![AsadDev09's](https://github-readme-stats.vercel.app/api?username=asaddev09&theme=dark&show_icons=true)

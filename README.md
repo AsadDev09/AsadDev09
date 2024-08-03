@@ -20,7 +20,7 @@
 
 <br>
 
-<img align="center" src="![Asad Ullah GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)">
+<img align="center" img src="![Asad Ullah GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)">
 
 </br>
 

@@ -28,7 +28,7 @@
 
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asaddev09&" alt="asaddev09" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
